@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241957628685",
+    "project_id": "englishwithjohn-baf8b",
+    "storage_bucket": "englishwithjohn-baf8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241957628685:android:56dcd2b426c07fba341e44",
+        "android_client_info": {
+          "package_name": "ru.mirea_.rybina_iboldova.project_md"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyWnHnSsIL6_Te8XebgzkQpD4avSX_hhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
