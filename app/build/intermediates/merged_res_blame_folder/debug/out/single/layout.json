@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-mergeDebugResources-39:/layout/activity_sign_up.xml",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-mergeDebugResources-39:/layout/activity_main.xml",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-mergeDebugResources-39:/layout/activity_main2.xml",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/layout/activity_main2.xml"
+    }
+]

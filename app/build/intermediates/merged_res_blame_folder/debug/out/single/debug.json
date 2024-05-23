@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/layout_activity_main.xml.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/drawable_channels4_profile__1_.png.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/drawable/channels4_profile__1_.png"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/xml_data_extraction_rules.xml.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/layout_activity_main2.xml.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/font_amiko.xml.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/font/amiko.xml"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/drawable_design_of_button_autorization.xml.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/drawable/design_of_button_autorization.xml"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/drawable_design_of_menu.xml.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/drawable/design_of_menu.xml"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/layout_activity_sign_up.xml.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/xml_backup_rules.xml.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "ru.mirea_.rybina_iboldova.project_md.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "ru.mirea_.rybina_iboldova.project_md.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+    }
+]
