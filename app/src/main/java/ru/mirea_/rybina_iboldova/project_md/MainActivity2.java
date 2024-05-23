@@ -7,7 +7,7 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 
 public class MainActivity2 extends AppCompatActivity {
-//kfkfkf
+//лох
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
